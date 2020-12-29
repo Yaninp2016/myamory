@@ -10,6 +10,10 @@ img {
     width: 400px; height: 400px;
 }
 
+.rounded-circle {
+    width: 200px; height: 200px;
+}
+
 p, li, .description{
  font-weight: 400;
  line-height: 1.8rem;
